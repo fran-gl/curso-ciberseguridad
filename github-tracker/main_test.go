@@ -1,13 +1,7 @@
 package main
 
 import (
-	"context"
-	"encoding/json"
-	"github-tracker/github-tracker/models"
-	"github-tracker/github-tracker/repository"
-	"github-tracker/github-tracker/repository/entity"
 	"testing"
-	"time"
 
 	"github.com/stretchr/testify/mock"
 	"github.com/stretchr/testify/require"
